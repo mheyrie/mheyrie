@@ -1,12 +1,14 @@
 ![Mheyrie Github](img/banner.png)
-
+![Mheyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&theme=radical)
 ### 👋👋👋 Holla 👋👋👋👋
 As a results-driven Full Stack Developer with a fervent passion for frontend development, particularly in React, I bring a comprehensive skill set and a dedication to delivering high-quality, user-centric solutions. With a keen eye for detail and a commitment to excellence, I thrive in dynamic environments where I can leverage my expertise in both frontend and backend technologies to create engaging and seamless experiences for users. My proactive approach to problem-solving, coupled with my strong communication skills, enables me to collaborate effectively with cross-functional teams and drive projects to successful outcomes. Additionally, my continuous learning mindset ensures that I stay updated with the latest trends and technologies, allowing me to adapt and innovate in ever-evolving tech landscapes. 
+
+
+
 
 **😄 Pronouns**
 - She
 - Her
-
 ## My Current Stack
 ![HTML](    https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -51,11 +53,9 @@ OTHERS
 
 - I'm a piano enthusiast and love playing 🎹 in my free time.
 
-- Despite my love for traveling, I've only visited four countries so far, and some of those visits were brief layovers. 😊😎
-
 - When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book.
 
-- I love adevntures, mountain climbling. I've had the exhilarating experience of riding the longest zip-line and crossing the longest suspended bridge in the Indian Ocean, adding an extra thrill to my adventurous spirit.
+- I love adevntures and hiking. 
 
 **📫 Connect with me on** 
 
@@ -74,6 +74,7 @@ OTHERS
 <a href="https://mheyrietechie.slack.com" target="_blank">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </a>
+
 
 <!--
 **mheyrie/mheyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
