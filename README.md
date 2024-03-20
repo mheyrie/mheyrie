@@ -8,7 +8,23 @@ As a results-driven Full Stack Developer with a fervent passion for frontend dev
 - Her
 
 ## My Current Stack
-![Mheyrie Github](img//node.png)
+![HTML](    https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+    
+    #![Top Langs](https://github.com/mheyrie?tab=repositories)
+
+
+
+
+## Frequently Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=pie)](https://github.com/mheyrie/github-readme-stats)
 
 
 **More About Me? Promise not to bore you**
@@ -19,10 +35,17 @@ Entering the tech industry, I gained a holistic perspective and a versatile skil
 
 Guided by a passion for innovation, I leverage my multidisciplinary expertise to drive impactful solutions in the evolving tech landscape. I am committed to continuous growth and exploration, pushing the boundaries of what is possible in the tech world.
 
-**🌱 I’m currently learning**
-- Node.js
-- Tailwind
+## **🌱 I’m currently learning**
+
+STACKS
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+OTHERS 
 - Digital Marketing
+- Spanish 
+
 
 **⚡ Fun fact**
 
@@ -34,10 +57,22 @@ Guided by a passion for innovation, I leverage my multidisciplinary expertise to
 
 - I love adevntures, mountain climbling. I've had the exhilarating experience of riding the longest zip-line and crossing the longest suspended bridge in the Indian Ocean, adding an extra thrill to my adventurous spirit.
 
-**📫 How to reach me** 
+**📫 Connect with me on** 
 
-<a>
+<a href="linkedin.com/in/oladele-mary" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+<a href="mailto:omota4fidelity@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+</a>
+<a href="https://twitter.com/mheyriemheyrie" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >
+</a>
+<a href="https://dev.to/mheyrie" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
+<a href="https://mheyrietechie.slack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </a>
 
 <!--
