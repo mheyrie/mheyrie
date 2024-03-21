@@ -20,7 +20,7 @@ As a results-driven Full Stack Developer with a fervent passion for frontend dev
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
     
-    #![Top Langs](https://github.com/mheyrie?tab=repositories)
+    
 
 
 
