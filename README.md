@@ -44,10 +44,9 @@ Guided by a passion for innovation, I leverage my multidisciplinary expertise to
 STACKS
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 OTHERS 
-- Digital Marketing
 - Spanish 
 
 
