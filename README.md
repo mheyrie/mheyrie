@@ -45,6 +45,7 @@ STACKS
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 OTHERS 
 - Spanish 
@@ -54,7 +55,7 @@ OTHERS
 
 - I'm a piano enthusiast and love playing 🎹 in my free time.
 
-- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book.
+- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **A Little Life by Hanya Yanagihara**
 
 - I love adevntures and hiking. 
 
