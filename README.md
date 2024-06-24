@@ -55,9 +55,11 @@ OTHERS
 
 - I'm a piano enthusiast and love playing 🎹 in my free time.
 
+- I used leetcode to improve my problem solving skill and put my brain to work🙂
+
 - When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **A Little Life by Hanya Yanagihara**
 
-- I love adevntures and hiking. 
+- I love adventures and traveling. 
 
 **📫 Connect with me on** 
 
@@ -78,17 +80,4 @@ OTHERS
 </a>
 
 
-<!--
-**mheyrie/mheyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
 
