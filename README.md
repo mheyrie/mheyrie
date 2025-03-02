@@ -43,7 +43,7 @@ Guided by a passion for innovation, I leverage my multidisciplinary expertise to
 
 STACKS
 
-![FLUTTER](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=flutterdotjs&logoColor=blue)
+![FLUTTER](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutterdotjs&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 OTHERS 
