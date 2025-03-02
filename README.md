@@ -22,7 +22,7 @@ I am a results-driven Full Stack Developer with a fervent passion for frontend d
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=red)
     
     
 
@@ -35,9 +35,7 @@ I am a results-driven Full Stack Developer with a fervent passion for frontend d
 
 **More About Me? Promise not to bore you**
 
-Transitioning from Mechatronics Engineering to a role as a Metallurgist in the Gold Mining industry has provided me with a diverse range of expertise. My background in Mechatronics Engineering gave me a solid foundation in technical problem-solving and analytical thinking. As a Metallurgist, I honed my skills in process optimization, data analysis, and quality control in mineral processing and extraction.
-
-Entering the tech industry, I gained a holistic perspective and a versatile skill set spanning traditional engineering and modern technology. Drawing from my experiences in Mechatronics Engineering and Metallurgy, I bring technical acumen, critical thinking, and a results-oriented mindset to my role as a Full Stack Developer. This diverse background enhances my ability to tackle complex challenges and adapt to new technologies with ease.
+Over time I have gained a holistic perspective and a versatile skill set spanning from traditional engineering and modern technology, while also drawing from my experiences in Mechatronics Engineering and Metallurgy, I bring technical acumen, critical thinking, and a results-oriented mindset to my role as a Full Stack Developer/Mobile developer. This diverse background enhances my ability to tackle complex challenges and adapt to new technologies with ease.
 
 Guided by a passion for innovation, I leverage my multidisciplinary expertise to drive impactful solutions in the evolving tech landscape. I am committed to continuous growth and exploration, pushing the boundaries of what is possible in the tech world.
 
@@ -45,7 +43,7 @@ Guided by a passion for innovation, I leverage my multidisciplinary expertise to
 
 STACKS
 
-![FLUTTER](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FLUTTER](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=flutterdotjs&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 OTHERS 
