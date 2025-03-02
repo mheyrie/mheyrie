@@ -20,7 +20,9 @@ I am a results-driven Full Stack Developer with a fervent passion for frontend d
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=white)
     
     
 
@@ -28,7 +30,7 @@ I am a results-driven Full Stack Developer with a fervent passion for frontend d
 
 
 ## Frequently Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=pie)](https://github.com/mheyrie/github-readme-stat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=pie)](https://github.com/mheyrie/github-readme-stats)
 
 
 **More About Me? Promise not to bore you**
@@ -43,8 +45,7 @@ Guided by a passion for innovation, I leverage my multidisciplinary expertise to
 
 STACKS
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FLUTTER](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 OTHERS 
