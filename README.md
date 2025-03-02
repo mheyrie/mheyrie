@@ -28,7 +28,7 @@ I am a results-driven Full Stack Developer with a fervent passion for frontend d
 
 
 ## Frequently Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=pie)](https://github.com/mheyrie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=pie)](https://github.com/mheyrie/github-readme-stat)
 
 
 **More About Me? Promise not to bore you**
