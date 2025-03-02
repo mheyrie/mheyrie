@@ -58,7 +58,7 @@ OTHERS
 
 - I used leetcode to improve my problem solving skill and put my brain to work🙂
 
-- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **A Little Life by Hanya Yanagihara**
+- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **Eat that Frog by Brain Tracy**
 
 - I love adventures and traveling. 
 
