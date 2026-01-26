@@ -37,7 +37,7 @@ I am a Frontend-focused Software Developer with strong experience in React and N
 - Focus on UI improvements, performance, and documentation
 
 
-**More About Me? Promise not to bore you**
+## 😎 More About Me? Promise not to bore you**
 
 Over time I have gained a holistic perspective and a versatile skill set spanning from traditional engineering and modern technology, while also drawing from my experiences in Mechatronics Engineering and Metallurgy, I bring technical acumen, critical thinking, and a results-oriented mindset to my role as a Full Stack Developer/Mobile developer. This diverse background enhances my ability to tackle complex challenges and adapt to new technologies with ease.
 
@@ -59,8 +59,10 @@ OTHERS
 - I'm a piano enthusiast and love playing 🎹 in my free time.
 
 - I used leetcode to improve my problem solving skill and put my brain to work🙂
+  
+-  am completely obsessed with music
 
-- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **Eat that Frog by Brain Tracy**
+- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **Atomic Habit by James Clear**
 
 - I love adventures and traveling. 
 
