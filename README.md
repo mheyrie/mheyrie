@@ -2,7 +2,7 @@
 ![Mheyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&theme=radical)
 
 ### 👋👋👋 Holla 👋👋👋👋
-I am a results-driven Software Developer with a fervent passion for frontend development, particularly in React, I bring a comprehensive skill set and a dedication to delivering high-quality, user-centric solutions. With a keen eye for detail and a commitment to excellence, I thrive in dynamic environments where I can leverage my expertise in both frontend and backend technologies to create engaging and seamless experiences for users. My proactive approach to problem-solving, coupled with my strong communication skills, enables me to collaborate effectively with cross-functional teams and drive projects to successful outcomes. Additionally, my continuous learning mindset ensures that I stay updated with the latest trends and technologies, allowing me to adapt and innovate in ever-evolving tech landscapes. 
+I am a Frontend-focused Software Developer with strong experience in React and Next.js and hands-on exposure to backend development. I build performant, accessible, and user-centric web applications, collaborate across teams, and enjoy solving real-world problems while improving both user and developer experience.
 
 
 
@@ -10,27 +10,30 @@ I am a results-driven Software Developer with a fervent passion for frontend dev
 **😄 Pronouns**
 - She
 - Her
-## My Current Stack
+## 🧠 Primary Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](    https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## 🧩 Familiar With
+![Nest.js](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=red)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=red)
-    
-    
-
-
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
 ## Frequently Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=pie)](https://github.com/mheyrie/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=compact&langs_count=6)
+
+## 🌍 Open Source
+- Contributing to React / Next.js ecosystem projects - Frontend
+- Focus on UI improvements, performance, and documentation
 
 
 **More About Me? Promise not to bore you**
