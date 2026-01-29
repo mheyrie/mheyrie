@@ -1,5 +1,5 @@
 ![Mheyrie Github](img/banner.png)
-![Mheyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![Mheyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&theme=tokyonight)
 
 ### 👋👋👋 Holla 👋👋👋👋
 I am a Frontend-focused Software Developer with strong experience in React and Next.js and hands-on exposure to backend development. I build performant, accessible, and user-centric web applications, collaborate across teams, and enjoy solving real-world problems while improving both user and developer experience.
