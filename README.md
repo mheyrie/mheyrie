@@ -1,5 +1,6 @@
 ![Mheyrie Github](img/banner.png)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheyrie&theme=radical&no-frame=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mheyrie&theme=redical)
+
 
 
 ### 👋👋👋 Holla 👋👋👋👋
