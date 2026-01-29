@@ -1,5 +1,5 @@
 ![Mheyrie Github](img/banner.png)
-![Mheyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&theme=radical)
+![Mheyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 ### 👋👋👋 Holla 👋👋👋👋
