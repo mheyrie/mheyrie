@@ -1,5 +1,8 @@
 ![Mheyrie Github](img/banner.png)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mheyrie&theme=redical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3D contribution graph" src="profile-3d-contrib/profile-gitblue.svg" />
+</picture>
 
 
 
