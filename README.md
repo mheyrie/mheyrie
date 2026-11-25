@@ -1,92 +1,80 @@
+<!-- Palette from img/banner.png: bg #0d1117 · pink #e879f9 · violet #8b5cf6 · periwinkle #a5b4fc · text #e6edf3 -->
+
 ![Mheyrie Github](img/banner.png)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <img alt="3D contribution graph" src="profile-3d-contrib/profile-green-animate.svg" />
-</picture>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&duration=3000&pause=800&color=E879F9&center=true&vCenter=true&width=640&lines=Frontend-focused+Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+performant%2C+accessible+UIs;Piano+%F0%9F%8E%B9+%7C+Books+%F0%9F%93%9A+%7C+Travel+%E2%9C%88%EF%B8%8F" alt="Typing intro" /></a>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/oladele-mary"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a5b4fc" /></a>
+  <a href="mailto:omota4fidelity@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=e879f9" /></a>
+  <a href="https://twitter.com/mheyriemheyrie"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=a5b4fc" /></a>
+  <a href="https://dev.to/mheyrie"><img src="https://img.shields.io/badge/dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=e879f9" /></a>
+  <a href="https://mheyrietechie.slack.com"><img src="https://img.shields.io/badge/Slack-0d1117?style=for-the-badge&logo=slack&logoColor=8b5cf6" /></a>
+</p>
 
-### 👋👋👋 Holla 👋👋👋👋
-I am a Frontend-focused Software Developer with strong experience in React and Next.js and hands-on exposure to backend development. I build performant, accessible, and user-centric web applications, collaborate across teams, and enjoy solving real-world problems while improving both user and developer experience.
+---
 
+## 👋 Holla
 
+I'm a **Frontend-focused Software Developer** with strong experience in **React** and **Next.js** and hands-on backend exposure. I build performant, accessible, user-centric web apps, collaborate across teams, and enjoy solving real-world problems while improving both user and developer experience.
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**😄 Pronouns**
-- She
-- Her
-## 🧠 Primary Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](    https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+**🌱 Currently learning**
+- Flutter & PHP
+- Spanish 🇪🇸
 
-## 🧩 Familiar With
-![Nest.js](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=red)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**🌍 Open source**
+- React / Next.js ecosystem — frontend
+- UI polish, performance & docs
 
+</td>
+<td width="50%" valign="top">
 
-## Frequently Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=compact&langs_count=6)
+**⚡ Fun facts**
+- 🎹 Piano enthusiast, obsessed with music
+- 🧠 LeetCode keeps my brain sharp
+- 📖 Reading *Atomic Habits* by James Clear
+- ✈️ Love adventures & travel
+- 😄 Pronouns: she / her
 
-## 🌍 Open Source
-- Contributing to React / Next.js ecosystem projects - Frontend
-- Focus on UI improvements, performance, and documentation
+</td>
+</tr>
+</table>
 
+## 🧠 Tech Stack
 
-## 😎 More About Me? Promise not to bore you**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,html,css&theme=dark" />
+</p>
 
-Over time I have gained a holistic perspective and a versatile skill set spanning from traditional engineering and modern technology, while also drawing from my experiences in Mechatronics Engineering and Metallurgy, I bring technical acumen, critical thinking, and a results-oriented mindset to my role as a Full Stack Developer/Mobile developer. This diverse background enhances my ability to tackle complex challenges and adapt to new technologies with ease.
+**Familiar with**
 
-Guided by a passion for innovation, I leverage my multidisciplinary expertise to drive impactful solutions in the evolving tech landscape. I am committed to continuous growth and exploration, pushing the boundaries of what is possible in the tech world.
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,sqlite,mysql,python,sass,flutter,php&theme=dark" />
+</p>
 
-## **🌱 I’m currently learning**
+## 📊 GitHub Activity
 
-STACKS
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=mheyrie&bg_color=0d1117&color=a5b4fc&line=e879f9&point=8b5cf6&area=true&area_color=8b5cf6&title_color=e879f9&hide_border=true&custom_title=Contributions%20in%20the%20last%20year)
 
-![FLUTTER](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutterdotjs&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mheyrie&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=8b5cf6&text_color=e6edf3&ring_color=e879f9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheyrie&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=e879f9&text_color=e6edf3" />
+</p>
 
-OTHERS 
-- Spanish 
+<p>
+  <img src="https://streak-stats.demolab.com?user=mheyrie&hide_border=true&background=0d1117&ring=e879f9&fire=8b5cf6&currStreakLabel=e879f9&sideLabels=a5b4fc&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=30363d" />
+</p>
 
+## 😎 More about me
 
-**⚡ Fun fact**
+Coming from **Mechatronics Engineering and Metallurgy**, I bring technical acumen, critical thinking and a results-oriented mindset to building software. That multidisciplinary background helps me tackle complex challenges and pick up new technologies quickly.
 
-- I'm a piano enthusiast and love playing 🎹 in my free time.
+I'm driven by innovation, committed to continuous growth, and always pushing the boundaries of what's possible in tech.
 
-- I used leetcode to improve my problem solving skill and put my brain to work🙂
-  
--  am completely obsessed with music
-
-- When I'm not coding, you can often find me engrossed in novels, exploring new worlds through the pages of a book. Currently reading **Atomic Habit by James Clear**
-
-- I love adventures and traveling. 
-
-**📫 Connect with me on** 
-
-<a href="linkedin.com/in/oladele-mary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
-<a href="mailto:omota4fidelity@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-</a>
-<a href="https://twitter.com/mheyriemheyrie" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >
-</a>
-<a href="https://dev.to/mheyrie" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-</a>
-<a href="https://mheyrietechie.slack.com" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</a>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:8b5cf6,100:a5b4fc&height=110&section=footer" width="100%" />
