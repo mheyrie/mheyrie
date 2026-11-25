@@ -1,6 +1,6 @@
 <!-- Palette from img/banner.png: bg #0d1117 · pink #e879f9 · violet #8b5cf6 · periwinkle #a5b4fc · text #e6edf3 -->
 
-![Mheyrie Github](img/banner.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:8b5cf6,100:a5b4fc&height=200&section=header&text=Hey!%20I%27m%20Mary&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&duration=3000&pause=800&color=E879F9&center=true&vCenter=true&width=640&lines=Frontend-focused+Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+performant%2C+accessible+UIs;Piano+%F0%9F%8E%B9+%7C+Books+%F0%9F%93%9A+%7C+Travel+%E2%9C%88%EF%B8%8F" alt="Typing intro" /></a>
